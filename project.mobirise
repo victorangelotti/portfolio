@@ -645,7 +645,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animado",
@@ -750,6 +750,42 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/f6ee5630976621.563b4eed6df0a-1020x1020.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/f6ee5630976621.563b4eed6df0a-1020x1020-800x800.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b9360f13988195.5627b5cb007ed-600x985.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b9360f13988195.5627b5cb007ed-600x985-600x985.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": true
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/b80ae120100817.562e5849c9c2f-600x555.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/b80ae120100817.562e5849c9c2f-600x555-600x555.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
+              },
+              {
+                "tags": "Animado",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/6b66d513988195.5627b6693de8d-600x849.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6b66d513988195.5627b6693de8d-600x849-600x849.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
@@ -908,6 +944,18 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Apresentação Weleda",
+                "active": false
+              },
+              {
+                "tags": "Apresentações ",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-3-2-12-10-51-321930.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=LUPRN5uSHxs",
+                "image": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/gallery00.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Apresentação SEMEXE",
                 "active": true
               }
             ]
